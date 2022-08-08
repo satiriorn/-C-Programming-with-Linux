@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\C Programming: Getting Started - 1">
+      <UniqueIdentifier>{98626e6a-98f5-4df4-a0ec-fc1c31291f15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C Programming: Getting Started - 1\Week 2">
+      <UniqueIdentifier>{da0b867b-8121-411f-ab9b-f95d009bb072}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C Programming: Getting Started - 1\Week 3">
+      <UniqueIdentifier>{932aac76-dbe3-41e2-a7af-00c9215a9758}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C Programming: Getting Started - 1\Week 4">
+      <UniqueIdentifier>{0e412644-1989-4900-96f6-7ba174669b79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\c-programming-language-foundations">
+      <UniqueIdentifier>{fd429bb5-9058-441d-89f0-3c6c945253d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\c-programming-language-foundations\Week 1">
+      <UniqueIdentifier>{02e45b29-cb27-4dff-a1ba-eff187051d2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\c-programming-language-foundations\Week 2">
+      <UniqueIdentifier>{213947cb-4408-4805-b29f-a1b0e7869e71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\c-programming-language-foundations\Week 3">
+      <UniqueIdentifier>{d3a4a248-3132-4908-9f3f-1bea40f79450}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WeekTwo.c">
+      <Filter>Source Files\C Programming: Getting Started - 1\Week 2</Filter>
+    </ClCompile>
+    <ClCompile Include="WeekThree.c">
+      <Filter>Source Files\C Programming: Getting Started - 1\Week 3</Filter>
+    </ClCompile>
+    <ClCompile Include="WeekFour.c">
+      <Filter>Source Files\C Programming: Getting Started - 1\Week 4</Filter>
+    </ClCompile>
+    <ClCompile Include="WeekOne.c">
+      <Filter>Source Files\c-programming-language-foundations\Week 1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
