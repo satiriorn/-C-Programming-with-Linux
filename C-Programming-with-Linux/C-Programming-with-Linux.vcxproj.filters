@@ -51,5 +51,8 @@
     <ClCompile Include="WeekOne.c">
       <Filter>Source Files\c-programming-language-foundations\Week 1</Filter>
     </ClCompile>
+    <ClCompile Include="Week_Two.c">
+      <Filter>Source Files\c-programming-language-foundations\Week 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
