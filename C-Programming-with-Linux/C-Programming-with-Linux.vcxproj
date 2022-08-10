@@ -127,11 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="WeekFour.c" />
-    <ClCompile Include="WeekOne.c" />
-    <ClCompile Include="WeekThree.c" />
-    <ClCompile Include="WeekTwo.c" />
-    <ClCompile Include="Week_Two.c" />
+    <ClCompile Include="C Programming Getting Started - 1/WeekFour.c" />
+    <ClCompile Include="C Programming Language Foundations - 2/WeekOne.c" />
+    <ClCompile Include="C Programming Getting Started - 1/WeekThree.c" />
+    <ClCompile Include="C Programming Getting Started - 1/WeekTwo.c" />
+    <ClCompile Include="C Programming Language Foundations - 2/Week_Two.c" />
+    <ClCompile Include="Week_Three.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

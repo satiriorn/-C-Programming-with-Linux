@@ -39,20 +39,23 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="WeekTwo.c">
-      <Filter>Source Files\C Programming: Getting Started - 1\Week 2</Filter>
+    <ClCompile Include="C Programming Getting Started - 1/WeekFour.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="WeekThree.c">
-      <Filter>Source Files\C Programming: Getting Started - 1\Week 3</Filter>
+    <ClCompile Include="C Programming Language Foundations - 2/WeekOne.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="WeekFour.c">
-      <Filter>Source Files\C Programming: Getting Started - 1\Week 4</Filter>
+    <ClCompile Include="C Programming Getting Started - 1/WeekThree.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="WeekOne.c">
-      <Filter>Source Files\c-programming-language-foundations\Week 1</Filter>
+    <ClCompile Include="C Programming Getting Started - 1/WeekTwo.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Week_Two.c">
-      <Filter>Source Files\c-programming-language-foundations\Week 2</Filter>
+    <ClCompile Include="C Programming Language Foundations - 2/Week_Two.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week_Three.c">
+      <Filter>Source Files\c-programming-language-foundations</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
