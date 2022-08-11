@@ -54,7 +54,13 @@
     <ClCompile Include="C Programming Language Foundations - 2/Week_Two.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Week_Three.c">
+    <ClCompile Include="Week_one.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week-Two.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week-Three.c">
       <Filter>Source Files\c-programming-language-foundations</Filter>
     </ClCompile>
   </ItemGroup>
