@@ -132,6 +132,7 @@
     <ClCompile Include="C Programming Getting Started - 1/WeekThree.c" />
     <ClCompile Include="C Programming Getting Started - 1/WeekTwo.c" />
     <ClCompile Include="C Programming Language Foundations - 2/Week_Two.c" />
+    <ClCompile Include="pass structures to functions.c" />
     <ClCompile Include="Week-Three.c" />
     <ClCompile Include="Week-Two.c" />
     <ClCompile Include="Week_one.c" />

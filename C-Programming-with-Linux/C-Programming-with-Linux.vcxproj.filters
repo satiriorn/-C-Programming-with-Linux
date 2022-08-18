@@ -63,5 +63,8 @@
     <ClCompile Include="Week-Three.c">
       <Filter>Source Files\c-programming-language-foundations</Filter>
     </ClCompile>
+    <ClCompile Include="pass structures to functions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
